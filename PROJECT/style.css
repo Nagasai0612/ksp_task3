@@ -1,0 +1,67 @@
+h1{
+    color: rgb(0, 255, 72);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+h3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+.sample0{
+    background-color: rgb(76, 242, 148);
+    color: blanchedalmond;
+}
+
+.sample{
+    color: rgb(12, 1, 1);
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
+#id{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(212, 90, 240);
+}
+
+#id1{
+    color: rgb(53, 24, 2);
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
+.box{
+    color: black;
+    border: solid 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(235, 105, 152);
+}
+
+.boxmodel{
+    color: rgb(213, 71, 223);
+    border: 10px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+
+}
+
+body{
+    background-image:url(pokee.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: auto;
+    min-height: fit-content;
+
+}
